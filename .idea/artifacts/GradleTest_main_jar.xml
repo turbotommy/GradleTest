@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GradleTest_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GradleTest_main_jar</output-path>
+    <root id="archive" name="GradleTest_main.jar">
+      <element id="artifact" artifact-name="GradleTest_main" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
